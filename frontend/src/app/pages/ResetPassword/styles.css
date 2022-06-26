@@ -1,0 +1,25 @@
+.form-container {
+	height: 100%;
+	margin-top: 5%;
+}
+
+.form-signin {
+	width: 360px;
+	padding: 15px;
+	margin: auto;
+}
+
+.form-signin input[type="email"] {
+	margin-bottom: -1px;
+	border-bottom-left-radius: 0;
+	border-bottom-right-radius: 0;
+}
+
+.btn-primary {
+	margin-top: 20px;
+}
+
+.login-links a {
+	text-decoration: none;
+	font-size: 15px;
+}
